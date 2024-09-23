@@ -12,7 +12,7 @@ My attempt at a [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) interpreter/emula
 `make`
 
 ## Usage
-`.\chip8.exe`
+`.\chip8.exe <path/to/rom>`
 * Currently only displays the window that SDL is drawing/rendering.
 
 ## Technical References/Resources
