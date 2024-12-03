@@ -13,7 +13,7 @@ My attempt at a [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) interpreter/emula
 
 ## Usage
 `.\chip8.exe <path/to/rom>`
-* Currently only displays the window that SDL is drawing/rendering.
+* Passes all tests in the [CHIP-8 test suite](https://github.com/Timendus/chip8-test-suite) by [@Timendus](https://github.com/Timendus)
 
 ## Technical References/Resources
 * [CHIP-8 Technical Reference](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Technical-Reference)
